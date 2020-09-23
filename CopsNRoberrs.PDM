@@ -1,0 +1,314 @@
+[Root]
+Most Recent Package=CopsNRobbers
+
+
+[Package|Cops And Robbers|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\WINDOWS\Desktop\Cops And Robbers
+
+[Package|Cops And Robbers|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Cops And Robbers|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Cops And Robbers|Files Found]
+
+[Package|Cops And Robbers|Files Released]
+
+[Package|Cops And Robbers|Missing Dependency Information]
+
+[Package|Cops And Robbers|Out-of-Date Dependency Information]
+
+[Package|Cops And Robbers|Files Added]
+C:\WINDOWS\Desktop\Beta 1.0\Media\Sound\button.wav=
+C:\WINDOWS\Desktop\Beta 1.0\Media\Sound\Car.wav=
+C:\WINDOWS\Desktop\Beta 1.0\Media\Sound\CASH.WAV=
+C:\WINDOWS\Desktop\Beta 1.0\Media\Sound\CLAP.WAV=
+C:\WINDOWS\Desktop\Beta 1.0\Media\Sound\Explosion.wav=
+C:\WINDOWS\Desktop\Beta 1.0\Media\Sound\Explosion2.wav=
+C:\WINDOWS\Desktop\Beta 1.0\Media\Sound\gun.wav=
+C:\WINDOWS\Desktop\Beta 1.0\Media\Sound\Helicopter1.wav=
+C:\WINDOWS\Desktop\Beta 1.0\Media\Sound\Helicopter2.wav=
+C:\WINDOWS\Desktop\Beta 1.0\Files\Config.cfg=
+
+[Package|Cops And Robbers|Files Removed]
+
+[Package|Cops And Robbers|Files In Project]
+C:\WINDOWS\Desktop\Beta 1.0\Cops And Robbers.exe=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.dll=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\WINDOWS\Desktop\Beta 1.0\Media\Sound\button.wav=Yes
+C:\WINDOWS\Desktop\Beta 1.0\Media\Sound\Car.wav=Yes
+C:\WINDOWS\Desktop\Beta 1.0\Media\Sound\CASH.WAV=Yes
+C:\WINDOWS\Desktop\Beta 1.0\Media\Sound\CLAP.WAV=Yes
+C:\WINDOWS\Desktop\Beta 1.0\Media\Sound\Explosion.wav=Yes
+C:\WINDOWS\Desktop\Beta 1.0\Media\Sound\Explosion2.wav=Yes
+C:\WINDOWS\Desktop\Beta 1.0\Media\Sound\gun.wav=Yes
+C:\WINDOWS\Desktop\Beta 1.0\Media\Sound\Helicopter1.wav=Yes
+C:\WINDOWS\Desktop\Beta 1.0\Media\Sound\Helicopter2.wav=Yes
+C:\WINDOWS\Desktop\Beta 1.0\Files\Config.cfg=Yes
+
+[Package|Cops And Robbers|Configure Registry Files]
+Applicable=No
+
+[Package|Cops And Robbers|Configure Remote Servers]
+Applicable=No
+
+[Package|Cops And Robbers|Install Locations]
+C:\WINDOWS\Desktop\Beta 1.0\Cops And Robbers.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\WINDOWS\Desktop\Beta 1.0\Media\Sound\button.wav=$(AppPath)\Media\Sound
+C:\WINDOWS\Desktop\Beta 1.0\Media\Sound\Car.wav=$(AppPath)\Media\Sound
+C:\WINDOWS\Desktop\Beta 1.0\Media\Sound\CASH.WAV=$(AppPath)\Media\Sound
+C:\WINDOWS\Desktop\Beta 1.0\Media\Sound\CLAP.WAV=$(AppPath)\Media\Sound
+C:\WINDOWS\Desktop\Beta 1.0\Media\Sound\Explosion.wav=$(AppPath)\Media\Sound
+C:\WINDOWS\Desktop\Beta 1.0\Media\Sound\Explosion2.wav=$(AppPath)\Media\Sound
+C:\WINDOWS\Desktop\Beta 1.0\Media\Sound\gun.wav=$(AppPath)\Media\Sound
+C:\WINDOWS\Desktop\Beta 1.0\Media\Sound\Helicopter1.wav=$(AppPath)\Media\Sound
+C:\WINDOWS\Desktop\Beta 1.0\Media\Sound\Helicopter2.wav=$(AppPath)\Media\Sound
+C:\WINDOWS\Desktop\Beta 1.0\Files\Config.cfg=$(AppPath)\Files
+
+[Package|Cops And Robbers|Configure Shared Files]
+Applicable=Yes
+C:\WINDOWS\Desktop\Beta 1.0\Cops And Robbers.exe=No
+C:\WINDOWS\Desktop\Beta 1.0\Media\Sound\button.wav=No
+C:\WINDOWS\Desktop\Beta 1.0\Media\Sound\Car.wav=No
+C:\WINDOWS\Desktop\Beta 1.0\Media\Sound\CASH.WAV=No
+C:\WINDOWS\Desktop\Beta 1.0\Media\Sound\CLAP.WAV=No
+C:\WINDOWS\Desktop\Beta 1.0\Media\Sound\Explosion.wav=No
+C:\WINDOWS\Desktop\Beta 1.0\Media\Sound\Explosion2.wav=No
+C:\WINDOWS\Desktop\Beta 1.0\Media\Sound\gun.wav=No
+C:\WINDOWS\Desktop\Beta 1.0\Media\Sound\Helicopter1.wav=No
+C:\WINDOWS\Desktop\Beta 1.0\Media\Sound\Helicopter2.wav=No
+C:\WINDOWS\Desktop\Beta 1.0\Files\Config.cfg=No
+
+[Package|Cops And Robbers|Distribution]
+Type=single
+Size=1.44 MB
+Title=Cops And Robbers Beta 2.0
+
+[Package|Cops And Robbers|IconGroups]
+Group0=Cram Productions
+PrivateGroup0=False
+Parent0=$(Programs)
+
+[Package|Cops And Robbers|Cram Productions]
+Icon1="Cops And Robbers.exe"
+Title1=Cops And Robbers Beta 2.0
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Cops And Robbers|Package]
+PackageFolder=C:\WINDOWS\Desktop\Cops And Robbers
+ProjectFolder=C:\WINDOWS\Desktop\Beta 1.0
+ServerSideCab=
+File1=C:\WINDOWS\Desktop\Cops And Robbers\setup.exe
+File2=C:\WINDOWS\Desktop\Cops And Robbers\Setup.Lst
+File3=C:\WINDOWS\Desktop\Cops And Robbers\Cops And Robbers.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|CopsNRobbers|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\WINDOWS\Desktop\CAR Install
+
+[Package|CopsNRobbers|Configure DAO ISAMs]
+Applicable=No
+
+[Package|CopsNRobbers|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|CopsNRobbers|Files Found]
+
+[Package|CopsNRobbers|Files Released]
+
+[Package|CopsNRobbers|Missing Dependency Information]
+
+[Package|CopsNRobbers|Out-of-Date Dependency Information]
+
+[Package|CopsNRobbers|Files Added]
+c:\windows\desktop\beta 1.0\files\config.cfg=
+c:\windows\desktop\beta 1.0\media\sound\button.wav=
+c:\windows\desktop\beta 1.0\media\sound\car.wav=
+c:\windows\desktop\beta 1.0\media\sound\cash.wav=
+c:\windows\desktop\beta 1.0\media\sound\clap.wav=
+c:\windows\desktop\beta 1.0\media\sound\explosion.wav=
+c:\windows\desktop\beta 1.0\media\sound\explosion2.wav=
+c:\windows\desktop\beta 1.0\media\sound\gun.wav=
+c:\windows\desktop\beta 1.0\help\carmain.htm=
+c:\windows\desktop\beta 1.0\help\bank.bmp=
+c:\windows\desktop\beta 1.0\help\club house.bmp=
+c:\windows\desktop\beta 1.0\help\corvettedown.gif=
+c:\windows\desktop\beta 1.0\help\corvetteleft.gif=
+c:\windows\desktop\beta 1.0\help\corvetteright.gif=
+c:\windows\desktop\beta 1.0\help\corvetteup.gif=
+c:\windows\desktop\beta 1.0\help\flower.bmp=
+c:\windows\desktop\beta 1.0\help\gun.bmp=
+c:\windows\desktop\beta 1.0\help\health.bmp=
+c:\windows\desktop\beta 1.0\help\helecopterdown.gif=
+c:\windows\desktop\beta 1.0\help\helecopterup.gif=
+c:\windows\desktop\beta 1.0\help\mine.bmp=
+c:\windows\desktop\beta 1.0\help\nitro.bmp=
+c:\windows\desktop\beta 1.0\help\regular1.bmp=
+c:\windows\desktop\beta 1.0\help\tunnel.bmp=
+
+[Package|CopsNRobbers|Files Removed]
+
+[Package|CopsNRobbers|Files In Project]
+C:\WINDOWS\Desktop\Beta 1.0\Cops And Robbers.exe=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.dll=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\WINDOWS\Desktop\Beta 1.0\Files\Config.cfg=Yes
+C:\WINDOWS\Desktop\Beta 1.0\Media\Sound\button.wav=Yes
+C:\WINDOWS\Desktop\Beta 1.0\Media\Sound\Car.wav=Yes
+C:\WINDOWS\Desktop\Beta 1.0\Media\Sound\CASH.WAV=Yes
+C:\WINDOWS\Desktop\Beta 1.0\Media\Sound\CLAP.WAV=Yes
+C:\WINDOWS\Desktop\Beta 1.0\Media\Sound\Explosion.wav=Yes
+C:\WINDOWS\Desktop\Beta 1.0\Media\Sound\Explosion2.wav=Yes
+C:\WINDOWS\Desktop\Beta 1.0\Media\Sound\gun.wav=Yes
+C:\WINDOWS\Desktop\Beta 1.0\Help\CARMain.htm=Yes
+C:\WINDOWS\Desktop\Beta 1.0\Help\Bank.bmp=Yes
+C:\WINDOWS\Desktop\Beta 1.0\Help\Club House.bmp=Yes
+C:\WINDOWS\Desktop\Beta 1.0\Help\CorvetteDOWN.gif=Yes
+C:\WINDOWS\Desktop\Beta 1.0\Help\CorvetteLEFT.gif=Yes
+C:\WINDOWS\Desktop\Beta 1.0\Help\CorvetteRIGHT.gif=Yes
+C:\WINDOWS\Desktop\Beta 1.0\Help\CorvetteUP.gif=Yes
+C:\WINDOWS\Desktop\Beta 1.0\Help\flower.bmp=Yes
+C:\WINDOWS\Desktop\Beta 1.0\Help\Gun.bmp=Yes
+C:\WINDOWS\Desktop\Beta 1.0\Help\Health.bmp=Yes
+C:\WINDOWS\Desktop\Beta 1.0\Help\HelecopterDOWN.gif=Yes
+C:\WINDOWS\Desktop\Beta 1.0\Help\HelecopterUP.gif=Yes
+C:\WINDOWS\Desktop\Beta 1.0\Help\Mine.bmp=Yes
+C:\WINDOWS\Desktop\Beta 1.0\Help\Nitro.bmp=Yes
+C:\WINDOWS\Desktop\Beta 1.0\Help\Regular1.bmp=Yes
+C:\WINDOWS\Desktop\Beta 1.0\Help\Tunnel.bmp=Yes
+
+[Package|CopsNRobbers|Configure Registry Files]
+Applicable=No
+
+[Package|CopsNRobbers|Configure Remote Servers]
+Applicable=No
+
+[Package|CopsNRobbers|Install Locations]
+C:\WINDOWS\Desktop\Beta 1.0\Cops And Robbers.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\WINDOWS\Desktop\Beta 1.0\Files\Config.cfg=$(AppPath)
+C:\WINDOWS\Desktop\Beta 1.0\Media\Sound\button.wav=$(AppPath)\Media\Sound
+C:\WINDOWS\Desktop\Beta 1.0\Media\Sound\Car.wav=$(AppPath)\Media\Sound
+C:\WINDOWS\Desktop\Beta 1.0\Media\Sound\CASH.WAV=$(AppPath)\Media\Sound
+C:\WINDOWS\Desktop\Beta 1.0\Media\Sound\CLAP.WAV=$(AppPath)\Media\Sound
+C:\WINDOWS\Desktop\Beta 1.0\Media\Sound\Explosion.wav=$(AppPath)\Media\Sound
+C:\WINDOWS\Desktop\Beta 1.0\Media\Sound\Explosion2.wav=$(AppPath)\Media\Sound
+C:\WINDOWS\Desktop\Beta 1.0\Media\Sound\gun.wav=$(AppPath)\Media\Sound
+C:\WINDOWS\Desktop\Beta 1.0\Help\CARMain.htm=$(AppPath)
+C:\WINDOWS\Desktop\Beta 1.0\Help\Bank.bmp=$(AppPath)
+C:\WINDOWS\Desktop\Beta 1.0\Help\Club House.bmp=$(AppPath)
+C:\WINDOWS\Desktop\Beta 1.0\Help\CorvetteDOWN.gif=$(AppPath)
+C:\WINDOWS\Desktop\Beta 1.0\Help\CorvetteLEFT.gif=$(AppPath)
+C:\WINDOWS\Desktop\Beta 1.0\Help\CorvetteRIGHT.gif=$(AppPath)
+C:\WINDOWS\Desktop\Beta 1.0\Help\CorvetteUP.gif=$(AppPath)
+C:\WINDOWS\Desktop\Beta 1.0\Help\flower.bmp=$(AppPath)
+C:\WINDOWS\Desktop\Beta 1.0\Help\Gun.bmp=$(AppPath)
+C:\WINDOWS\Desktop\Beta 1.0\Help\Health.bmp=$(AppPath)
+C:\WINDOWS\Desktop\Beta 1.0\Help\HelecopterDOWN.gif=$(AppPath)
+C:\WINDOWS\Desktop\Beta 1.0\Help\HelecopterUP.gif=$(AppPath)
+C:\WINDOWS\Desktop\Beta 1.0\Help\Mine.bmp=$(AppPath)
+C:\WINDOWS\Desktop\Beta 1.0\Help\Nitro.bmp=$(AppPath)
+C:\WINDOWS\Desktop\Beta 1.0\Help\Regular1.bmp=$(AppPath)
+C:\WINDOWS\Desktop\Beta 1.0\Help\Tunnel.bmp=$(AppPath)
+
+[Package|CopsNRobbers|Configure Shared Files]
+Applicable=Yes
+C:\WINDOWS\Desktop\Beta 1.0\Cops And Robbers.exe=No
+C:\WINDOWS\Desktop\Beta 1.0\Files\Config.cfg=No
+C:\WINDOWS\Desktop\Beta 1.0\Media\Sound\button.wav=No
+C:\WINDOWS\Desktop\Beta 1.0\Media\Sound\Car.wav=No
+C:\WINDOWS\Desktop\Beta 1.0\Media\Sound\CASH.WAV=No
+C:\WINDOWS\Desktop\Beta 1.0\Media\Sound\CLAP.WAV=No
+C:\WINDOWS\Desktop\Beta 1.0\Media\Sound\Explosion.wav=No
+C:\WINDOWS\Desktop\Beta 1.0\Media\Sound\Explosion2.wav=No
+C:\WINDOWS\Desktop\Beta 1.0\Media\Sound\gun.wav=No
+C:\WINDOWS\Desktop\Beta 1.0\Help\CARMain.htm=No
+C:\WINDOWS\Desktop\Beta 1.0\Help\Bank.bmp=No
+C:\WINDOWS\Desktop\Beta 1.0\Help\Club House.bmp=No
+C:\WINDOWS\Desktop\Beta 1.0\Help\CorvetteDOWN.gif=No
+C:\WINDOWS\Desktop\Beta 1.0\Help\CorvetteLEFT.gif=No
+C:\WINDOWS\Desktop\Beta 1.0\Help\CorvetteRIGHT.gif=No
+C:\WINDOWS\Desktop\Beta 1.0\Help\CorvetteUP.gif=No
+C:\WINDOWS\Desktop\Beta 1.0\Help\flower.bmp=No
+C:\WINDOWS\Desktop\Beta 1.0\Help\Gun.bmp=No
+C:\WINDOWS\Desktop\Beta 1.0\Help\Health.bmp=No
+C:\WINDOWS\Desktop\Beta 1.0\Help\HelecopterDOWN.gif=No
+C:\WINDOWS\Desktop\Beta 1.0\Help\HelecopterUP.gif=No
+C:\WINDOWS\Desktop\Beta 1.0\Help\Mine.bmp=No
+C:\WINDOWS\Desktop\Beta 1.0\Help\Nitro.bmp=No
+C:\WINDOWS\Desktop\Beta 1.0\Help\Regular1.bmp=No
+C:\WINDOWS\Desktop\Beta 1.0\Help\Tunnel.bmp=No
+
+[Package|CopsNRobbers|Distribution]
+Type=single
+Size=
+Title=Cops And Robbers Beta 2.0
+
+[Package|CopsNRobbers|Package]
+PackageFolder=C:\WINDOWS\Desktop\CAR Install
+ProjectFolder=C:\WINDOWS\Desktop\Beta 1.0
+ServerSideCab=
+File1=C:\WINDOWS\Desktop\CAR Install\setup.exe
+File2=C:\WINDOWS\Desktop\CAR Install\Setup.Lst
+File3=C:\WINDOWS\Desktop\CAR Install\Cops And Robbers.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|CopsNRobbers|IconGroups]
+Group0=Cram Games
+PrivateGroup0=False
+Parent0=$(Programs)
+
+[Package|CopsNRobbers|Cram Games]
+Icon1="Cops And Robbers.exe"
+Title1=Play Cops And Robbers
+StartIn1=$(AppPath)
+Key1=Icon1
+Icon2=CARMain.htm
+Title2=Help
+StartIn2=$(AppPath)
+Key2=Icon3
